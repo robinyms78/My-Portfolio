@@ -1,0 +1,177 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GooglePlaceSearchAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {903, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 520}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GooglePlaceSearchAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1118}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{300, 816}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GooglePlaceSearch */ = {
+		activeExec = 0;
+		executables = (
+			48078F4D139AB97700BB7A1F /* GooglePlaceSearch */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GooglePlaceSearchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 364}}";
+			sepNavSelRange = "{497, 0}";
+			sepNavVisRange = "{260, 404}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GooglePlaceSearchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 1248}}";
+			sepNavSelRange = "{426, 0}";
+			sepNavVisRange = "{66, 286}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 48078F4D139AB97700BB7A1F /* GooglePlaceSearch */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GooglePlaceSearch */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GooglePlaceSearch */,
+		);
+		codeSenseManager = 48078F6A139AB99100BB7A1F /* Code sense */;
+		executables = (
+			48078F4D139AB97700BB7A1F /* GooglePlaceSearch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					558,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328970755;
+			PBXWorkspaceStateSaveDate = 328970755;
+		};
+		perUserProjectItems = {
+			48741D74139B95E300C9A18B /* PBXTextBookmark */ = 48741D74139B95E300C9A18B /* PBXTextBookmark */;
+			48741E47139BAD0600C9A18B /* PBXTextBookmark */ = 48741E47139BAD0600C9A18B /* PBXTextBookmark */;
+			48741E48139BAD0600C9A18B /* PBXTextBookmark */ = 48741E48139BAD0600C9A18B /* PBXTextBookmark */;
+			48741ED8139BB21100C9A18B /* PBXTextBookmark */ = 48741ED8139BB21100C9A18B /* PBXTextBookmark */;
+			48741ED9139BB21100C9A18B /* PBXTextBookmark */ = 48741ED9139BB21100C9A18B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 48078F69139AB99100BB7A1F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	48078F4D139AB97700BB7A1F /* GooglePlaceSearch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GooglePlaceSearch;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	48078F69139AB99100BB7A1F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	48078F6A139AB99100BB7A1F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	48741D74139B95E300C9A18B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GooglePlaceSearchAppDelegate.h */;
+		name = "GooglePlaceSearchAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 520;
+		vrLoc = 0;
+	};
+	48741E47139BAD0600C9A18B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GooglePlaceSearchViewController.h */;
+		name = "GooglePlaceSearchViewController.h: 16";
+		rLen = 0;
+		rLoc = 377;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 102;
+	};
+	48741E48139BAD0600C9A18B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GooglePlaceSearchAppDelegate.m */;
+		name = "GooglePlaceSearchAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 816;
+		vrLoc = 300;
+	};
+	48741ED8139BB21100C9A18B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GooglePlaceSearchViewController.m */;
+		name = "GooglePlaceSearchViewController.m: 22";
+		rLen = 150;
+		rLoc = 496;
+		rType = 0;
+		vrLen = 137;
+		vrLoc = 213;
+	};
+	48741ED9139BB21100C9A18B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GooglePlaceSearchViewController.m */;
+		name = "GooglePlaceSearchViewController.m: 20";
+		rLen = 0;
+		rLoc = 426;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 66;
+	};
+}

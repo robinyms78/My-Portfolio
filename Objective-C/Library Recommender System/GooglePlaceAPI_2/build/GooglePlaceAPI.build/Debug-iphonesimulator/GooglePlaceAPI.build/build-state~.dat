@@ -1,0 +1,259 @@
+TGooglePlaceAPI
+v7
+r0
+t328173032.126501
+cCheck dependencies
+cProcessInfoPlistFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/Info.plist" GooglePlaceAPI-Info.plist
+cCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/MainWindow.xib"
+cCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.xib"
+cProcessPCH /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceAPI_Prefix-dhdxfwwblzraugffickwesuhyjxp/GooglePlaceAPI_Prefix.pch.gch GooglePlaceAPI_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/main.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/GooglePlaceAPIAppDelegate.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/GooglePlaceAPIViewController.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D54DEBC00000000000778F0
+t1297407676
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIAppDelegate.h
+c000000004DDF449A000000000000014B
+t1306477722
+s331
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIAppDelegate.m
+c000000004DDF449A00000000000009D9
+t1306477722
+s2521
+i"GooglePlaceAPIAppDelegate.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.h
+c000000004DDF4E66000000000000041D
+t1306480230
+s1053
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m
+c000000004DDF470B00000000000005C0
+t1306478347
+s1472
+i"GooglePlaceAPIViewController.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.xib
+c000000004DDF470B000000000000188F
+t1306478347
+s6287
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/GooglePlaceAPI_Prefix.pch
+c000000004DDF449A00000000000000C5
+t1306477722
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/MainWindow.xib
+c000000004DDF449A000000000000212B
+t1306477722
+s8491
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app
+t2
+s0
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app.dSYM
+t2
+s0
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/GooglePlaceAPI
+t2
+s0
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/GooglePlaceAPIViewController.nib
+t1306480231
+s1231
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/Info.plist
+t1306480230
+s619
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/MainWindow.nib
+t1306480231
+s1538
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/PkgInfo
+t1306480230
+s8
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/GooglePlaceAPI.LinkFileList
+c000000004DDF4E66000000000000027F
+t1306480230
+s639
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/GooglePlaceAPIAppDelegate.o
+t1306480232
+s50188
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/GooglePlaceAPIViewController.o
+t2
+s0
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/main.o
+t1306480232
+s6436
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/main.m
+c000000004DDF449A000000000000015F
+t1306477722
+s351
+i<UIKit/UIKit.h>
+
+N/var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceAPI_Prefix-dhdxfwwblzraugffickwesuhyjxp/GooglePlaceAPI_Prefix.pch.gch
+t1306480231
+s15814064
+
+NGooglePlaceAPI-Info.plist
+c000000004DDF449A000000000000038D
+t1306477722
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328173030#328173030#0(0"0(0#1#0"8617485792#0"0#
+
+CCompileC build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/GooglePlaceAPIAppDelegate.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328173032.070159
+e328173032.126432
+r1
+xCompileC
+xbuild/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/GooglePlaceAPIAppDelegate.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@144"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIAppDelegate.m328173032#328173032#0(0"0(0#0#136"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIAppDelegate.m8617860640#2808"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceAPI_Prefix-dhdxfwwblzraugffickwesuhyjxp/GooglePlaceAPI_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIAppDelegate.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/GooglePlaceAPIAppDelegate.o"0#
+
+CCompileC build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/GooglePlaceAPIViewController.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328173032.071346
+e328173032.112401
+r0
+xCompileC
+xbuild/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/GooglePlaceAPIViewController.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:9:
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.h:11: error: expected '>' before '{' token
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Name' requires method '-Name' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Name' requires the method 'setName:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Vicinity' requires method '-Vicinity' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Vicinity' requires the method 'setVicinity:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type1' requires method '-Type1' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type1' requires the method 'setType1:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type2' requires method '-Type2' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type2' requires the method 'setType2:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type3' requires method '-Type3' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type3' requires the method 'setType3:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'activityIndicatorView' requires method '-activityIndicatorView' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'activityIndicatorView' requires the method 'setActivityIndicatorView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'buffer' requires method '-buffer' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'buffer' requires the method 'setBuffer:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'parser' requires method '-parser' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'parser' requires the method 'setParser:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: incomplete implementation of class 'GooglePlaceAPIViewController'
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: method definition for '-lookup' not found
+lSLF07#2@147"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328173032#328173032#0(5248"In file included from /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:9:/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.h:11: error: expected '>' before '{' token/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Name' requires method '-Name' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Name' requires the method 'setName:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Vicinity' requires method '-Vicinity' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Vicinity' requires the method 'setVicinity:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type1' requires method '-Type1' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type1' requires the method 'setType1:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type2' requires method '-Type2' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type2' requires the method 'setType2:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type3' requires method '-Type3' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'Type3' requires the method 'setType3:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'activityIndicatorView' requires method '-activityIndicatorView' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'activityIndicatorView' requires the method 'setActivityIndicatorView:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'buffer' requires method '-buffer' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'buffer' requires the method 'setBuffer:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'parser' requires method '-parser' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: property 'parser' requires the method 'setParser:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: incomplete implementation of class 'GooglePlaceAPIViewController'/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m:59: warning: method definition for '-lookup' not found19(4@29"Expected '>' before '{' token328173032#165#181#2(7@161"In file included from /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328173032#18446744073709551615#0#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#9#0#9#0#0"0(13@172"Expected '>' before '{' token in /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.h328173032#18446744073709551615#0#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.h328173030#11#0#11#0#0"0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.h328173030#11#0#11#0#19"expected * before *0(22@116"Property 'Name' requires method '-Name' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#346#270#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@123"Property 'Name' requires the method 'setName:' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#616#277#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@124"Property 'Vicinity' requires method '-Vicinity' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#893#278#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@131"Property 'Vicinity' requires the method 'setVicinity:' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#1171#285#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@118"Property 'Type1' requires method '-Type1' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#1456#272#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@125"Property 'Type1' requires the method 'setType1:' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#1728#279#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@118"Property 'Type2' requires method '-Type2' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#2007#272#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@125"Property 'Type2' requires the method 'setType2:' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#2279#279#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@118"Property 'Type3' requires method '-Type3' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#2558#272#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@125"Property 'Type3' requires the method 'setType3:' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#2830#279#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@150"Property 'activityIndicatorView' requires method '-activityIndicatorView' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#3109#304#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@157"Property 'activityIndicatorView' requires the method 'setActivityIndicatorView:' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#3413#311#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@120"Property 'buffer' requires method '-buffer' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#3724#274#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@127"Property 'buffer' requires the method 'setBuffer:' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#3998#281#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@120"Property 'parser' requires method '-parser' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#4279#274#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@127"Property 'parser' requires the method 'setParser:' to be defined - use @synthesize, @dynamic or provide a method implementation328173032#4553#281#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#0"0(22@65"Incomplete implementation of class 'GooglePlaceAPIViewController'328173032#4834#219#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#38"incomplete implementation of class '*'0(22@41"Method definition for '-lookup' not found328173032#5053#195#0(6@139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m328171147#59#0#59#0#35"method definition for '*' not found0(0#0#139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m8615161344#2814"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceAPI_Prefix-dhdxfwwblzraugffickwesuhyjxp/GooglePlaceAPI_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/GooglePlaceAPIViewController.o"1#
+
+CCompileC build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/main.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328173032.068392
+e328173032.114242
+r1
+xCompileC
+xbuild/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/main.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/main.m328173032#328173032#0(0"0(0#0#107"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/main.m8619132192#2758"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceAPI_Prefix-dhdxfwwblzraugffickwesuhyjxp/GooglePlaceAPI_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/main.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.xib"
+s328173030.688467
+e328173031.017532
+r1
+xCompileXIB
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.xib
+lSLF07#2@51"CompileXIB Classes/GooglePlaceAPIViewController.xib328173030#328173031#0(0"0(0#0#141"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.xib8613124800#813"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/GooglePlaceAPIViewController.nib" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/Classes/GooglePlaceAPIViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/MainWindow.xib"
+s328173030.687791
+e328173031.163140
+r1
+xCompileXIB
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328173030#328173031#0(0"0(0#0#115"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/MainWindow.xib8615527552#769"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/MainWindow.nib" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app.dSYM" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/GooglePlaceAPI"
+r0
+
+CLd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/GooglePlaceAPI" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/Info.plist" GooglePlaceAPI-Info.plist
+s328173030.683996
+e328173030.687694
+r1
+xProcessInfoPlistFile
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/Info.plist
+xGooglePlaceAPI-Info.plist
+lSLF07#2@33"Process GooglePlaceAPI-Info.plist328173030#328173030#0(0"0(0#0#126"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/GooglePlaceAPI-Info.plist8618014528#692"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GooglePlaceAPI-Info.plist -genpkginfo "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app/Info.plist"0#
+
+CProcessPCH /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceAPI_Prefix-dhdxfwwblzraugffickwesuhyjxp/GooglePlaceAPI_Prefix.pch.gch GooglePlaceAPI_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328173031.163349
+e328173032.068202
+r1
+xProcessPCH
+x/var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceAPI_Prefix-dhdxfwwblzraugffickwesuhyjxp/GooglePlaceAPI_Prefix.pch.gch
+xGooglePlaceAPI_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile GooglePlaceAPI_Prefix.pch328173031#328173032#0(0"0(0#0#126"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/GooglePlaceAPI_Prefix.pch8615851424#2579"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/GooglePlaceAPI-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/GooglePlaceAPI.build/Debug-iphonesimulator/GooglePlaceAPI.build/DerivedSources" -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/GooglePlaceAPI_Prefix.pch" -o /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceAPI_Prefix-dhdxfwwblzraugffickwesuhyjxp/GooglePlaceAPI_Prefix.pch.gch0#
+
+CTouch "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceAPI/build/Debug-iphonesimulator/GooglePlaceAPI.app"
+r0
+
