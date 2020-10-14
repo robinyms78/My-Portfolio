@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SRI name="SRI Interactions">
+	<interaction name="welcome">
+		<parallel>
+			<say utterance="Welcome to Toki Pona Lesson 1." source="welcome.wma" />
+			<display string="Hello! I'm SRI Tutor."/>
+			<repeat action="" />
+		</parallel>
+	</interaction>
+	<interaction name="introduction">
+		<seq>
+		  <say utterance="Hello! I'm SRI Tutor." source="my_name_toki.wma" />
+		  <display string="Hello! I'm SRI Tutor."/>
+		</seq>
+		<seq>
+		  <say utterance="Toki Pona means 'the good language'. Now, read with me: Toki Pona" source="read_along_toki.wma" />
+		  <display string="Toki Pona means 'the good language'." />
+		</seq>
+		<seq condition="repeat_no_input" wait="10" match="iif('toki pona','Good Job','Nevermind, let's move on')" media="display">
+		  <say utterance="Now try to write toki pona."/>
+		  <display string="Now try to write toki pona." />
+		</seq>
+	</interaction>
+	<interaction name="letters">
+		<seq>
+			<display string="toki pona is a very simple language, it only has 14 letters." />
+			<display source="vowels.txt" wait="50" />
+			<display source="pronounciation.txt" wait="60"/>
+		</seq>
+	</interaction>
+	<interaction name="basicsentence">
+		<seq>
+			<display string="Now let's try to learn some simple sentences in toki pona."/>
+			<display string="mi - I, me /n pona - good, simple; to fix, to repair" />
+			<display string="mi pona == I (am) good."/>
+			<display string="now red this sentence: mi pona" wait="60"/>
+			<display string="sina - you /n suli - big, tall, long, important" />
+			<display string="sina suli == you (are) big/important" />
+			<display string="now read this sentence: sina suli" wait="60" />
+		</seq>
+	</interaction>
+</SRI>

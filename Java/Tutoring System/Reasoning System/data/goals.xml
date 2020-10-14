@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SRI name="SRI Goals">
+	<goal name="introduction" plan="introduction" />
+	<goal name="letters" plan="letters" />
+	<goal name="basicsentence" plan="basicsentence" />
+</SRI>
