@@ -20,7 +20,7 @@ The projects within each group are as follows:
    
    f. Weather information collection system: A weather collector system based on weather API to detect weather conditions and output speech-related information for the robot controller. 
    
-   g. Topic Modelling System: An API to extract topic models from a given data set using Latent Diriclet Allocation with Gibb's sampling.  
+   g. Topic modelling system: An API to extract topic models from a given data set using Latent Diriclet Allocation with Gibb's sampling.  
 
 2. Objective-C Code:
 
