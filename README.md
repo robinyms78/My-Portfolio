@@ -10,7 +10,7 @@ The projects within each group are as follows:
 
    a. Customer walking simulator: A desktop application which provides a graphical user interface to simulate customer movement as a substitute for the vision system for the robot controller.
    
-   b. Head motion synchronization system: An API to synchronize the head motion between human and robot in the process of communication using reactive and interactive model.
+   b. Head motion synchronization system: An API to synchronize the head motion in the communicative process between human and robot using reactive and interactive model.
    
    c. Machine learning system: An API to classifiy the data set using supervised and unsupervisd learning and compare the performance of each model.
    
