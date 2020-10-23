@@ -18,7 +18,7 @@ The projects within each group are as follows:
    
    e. Remote education system: A desktop application to control Pepper's movement in the classroom using motion planning and control, head motion synchronization between human and Nao robot using the camera and OpenCV, and a robot tutoring system using Webot and Microsoft Speech Engine.
    
-   f. Weather information collection system: A weather collector system based on weather API to detect weather conditions and output speech-related information for the robot controller. 
+   f. Weather information collection system: A weather information collector system based on Open weather map API to detect weather condition and output weather-related speech for the robot controller. 
    
    g. Topic modelling system: An API to extract topic models from a given data set using Latent Diriclet Allocation with Gibb's sampling.  
 
