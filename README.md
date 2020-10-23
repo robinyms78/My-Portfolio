@@ -12,7 +12,7 @@ The projects within each group are as follows:
    
    b. Head motion synchronization system: An API to synchronize the head motion in the communicative process between human and robot using reactive and interactive model.
    
-   c. Machine learning system: An API to classifiy the data set using supervised and unsupervisd learning and compare the performance of each model.
+   c. Machine learning system: An API to classifiy the data set using supervised and unsupervised learning and compare the performance of each model.
    
    d. Marketing system: A desktop application to reveal customer daily and monthly buying patterns based on customer's data using MySQL.
    
