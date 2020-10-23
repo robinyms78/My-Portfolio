@@ -14,7 +14,7 @@ The projects within each group are as follows:
    
    c. Machine learning system: An API to classify the data set using supervised and unsupervised learning and compare the performance of each model.
    
-   d. Marketing system: A desktop application to reveal customer daily and monthly buying patterns based on customer's data using MySQL.
+   d. Marketing system: A desktop application to reveal customer daily and monthly order and visit patterns based on customer's data using MySQL.
    
    e. Remote education system: Desktop applications to control Pepper's movement in the classroom, head motion synchronization between human and Nao robot using the camera and a tutoring system using Nao robot avatar.
    
