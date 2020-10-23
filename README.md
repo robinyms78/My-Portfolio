@@ -8,7 +8,7 @@ The projects within each group are as follows:
 
 1. Python Code:
 
-   a. Customer walking simulator: A desktop application which provides a graphical user interface to simulatate customer movement as a substitute for the vision system for the robot controller.
+   a. Customer walking simulator: A desktop application which provides a graphical user interface to simulate customer movement as a substitute for the vision system for the robot controller.
    
    b. Head motion synchronization system: An API to synchronize the head motion between human and robot in the process of communication using reactive and interactive model.
    
