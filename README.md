@@ -32,7 +32,7 @@ The projects within each group are as follows:
    
    b. Tourist recommendation system: A desktop application to provide recommendations to tourist of attractions in Singapore using rule-based reasoning in C language integrated production system(CLIPS).
    
-   c. Tutoring system: A robot tutoring system which comprises of a sensory system to detect students' emotion in C++, a reasoning system to select lesson content in Java and an attention system to manage students' teaching based on students' state in CLIPS.
+   c. Tutoring system: A robot tutoring system which comprises of a sensory system to detect students' emotion in C++, a reasoning system to select lesson content in Java and an attention system to manage robot's teaching based on student's internal and external state in CLIPS.
 
 4. C Code:
 
