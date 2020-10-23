@@ -36,6 +36,6 @@ The projects within each group are as follows:
 
 4. C Code:
 
-   a. Car light controller system: A simulator to simulate car light control system using finite state machine.
+   a. Car light controller system: A simulator to simulate car lighting control system using finite state machine.
    
    b. Potentiometer: An embedded system to control the LED and LCD on ARMS microcontroller using rate monotonic scheduling and earliest deadline first scheduling.
