@@ -16,7 +16,7 @@ The projects within each group are as follows:
    
    d. Marketing system: A desktop application to reveal customer daily and monthly order and visit patterns based on customer's data using MySQL.
    
-   e. Remote education system: Desktop applications to control Pepper's movement in the classroom, head motion synchronization between human and Nao robot using the camera and a tutoring system using Nao robot avatar.
+   e. Remote education system: A desktop application to control Pepper's movement in the classroom using motion planning and control, head motion synchronization between human and Nao robot using the camera and OpenCV, and a robot tutoring system using Webot and Microsoft Speech Engine.
    
    f. Weather information collection system: A weather collector system based on weather API to detect weather conditions and output speech-related information for the robot controller. 
    
