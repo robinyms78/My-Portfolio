@@ -1,0 +1,3 @@
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Chapter 2_Introduction to Java Applications\Exercises\Diameter\Diameter\bin\Debug\Diameter.jar
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Chapter 2_Introduction to Java Applications\Exercises\Diameter\Diameter\obj\Debug\pkg\Diameter.class
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Chapter 2_Introduction to Java Applications\Exercises\Diameter\Diameter\obj\Debug\Diameter.jar

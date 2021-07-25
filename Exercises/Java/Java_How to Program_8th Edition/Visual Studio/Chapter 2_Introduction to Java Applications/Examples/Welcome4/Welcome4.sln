@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{BE0A4C86-FC82-4F70-8ED6-D24C8B13E7BF}") = "Welcome4", "Welcome4\Welcome4.javaproj", "{9E4F6F66-3183-4EC6-BDC6-FD91DCC88CBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E4F6F66-3183-4EC6-BDC6-FD91DCC88CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4F6F66-3183-4EC6-BDC6-FD91DCC88CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4F6F66-3183-4EC6-BDC6-FD91DCC88CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4F6F66-3183-4EC6-BDC6-FD91DCC88CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

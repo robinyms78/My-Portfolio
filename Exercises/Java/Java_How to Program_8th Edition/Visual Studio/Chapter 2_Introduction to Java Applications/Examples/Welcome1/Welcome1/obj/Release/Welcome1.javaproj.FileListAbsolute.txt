@@ -1,0 +1,3 @@
+c:\users\81809\onedrive\ドキュメント\visual studio 2010\Projects\Welcome1\Welcome1\bin\Release\Welcome1.jar
+c:\users\81809\onedrive\ドキュメント\visual studio 2010\Projects\Welcome1\Welcome1\obj\Release\pkg\Program.class
+c:\users\81809\onedrive\ドキュメント\visual studio 2010\Projects\Welcome1\Welcome1\obj\Release\Welcome1.jar

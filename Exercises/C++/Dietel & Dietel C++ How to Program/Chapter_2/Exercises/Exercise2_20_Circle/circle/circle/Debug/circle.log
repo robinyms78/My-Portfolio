@@ -1,0 +1,4 @@
+﻿  circle.cpp
+F:\My Self Learning\References\C++\Dietel & Dietel C++ How to Program\Chapter_2\Exercises\Exercise2_20_Circle\circle\circle\circle.cpp(21,33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\My Self Learning\References\C++\Dietel & Dietel C++ How to Program\Chapter_2\Exercises\Exercise2_20_Circle\circle\circle\circle.cpp(24,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  circle.vcxproj -> F:\My Self Learning\References\C++\Dietel & Dietel C++ How to Program\Chapter_2\Exercises\Exercise2_20_Circle\circle\Debug\circle.exe

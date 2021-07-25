@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EG6", "EG6\EG6.pyproj", "{BEC855A3-BB22-4F94-8451-68DF399FB5B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC855A3-BB22-4F94-8451-68DF399FB5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC855A3-BB22-4F94-8451-68DF399FB5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

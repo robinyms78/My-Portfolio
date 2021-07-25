@@ -1,0 +1,3 @@
+c:\users\81809\onedrive\ドキュメント\visual studio 2010\Projects\Welcome2\Welcome2\bin\Debug\Welcome2.jar
+c:\users\81809\onedrive\ドキュメント\visual studio 2010\Projects\Welcome2\Welcome2\obj\Debug\pkg\Welcome2.class
+c:\users\81809\onedrive\ドキュメント\visual studio 2010\Projects\Welcome2\Welcome2\obj\Debug\Welcome2.jar

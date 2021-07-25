@@ -1,0 +1,3 @@
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\Salary\Salary\bin\Debug\Salary.jar
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\Salary\Salary\obj\Debug\pkg\Salary.class
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\Salary\Salary\obj\Debug\Salary.jar

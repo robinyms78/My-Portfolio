@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{BE0A4C86-FC82-4F70-8ED6-D24C8B13E7BF}") = "GradeBook", "GradeBook\GradeBook.javaproj", "{DE769A45-6ECB-4014-82FD-F01825D64057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE769A45-6ECB-4014-82FD-F01825D64057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE769A45-6ECB-4014-82FD-F01825D64057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE769A45-6ECB-4014-82FD-F01825D64057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE769A45-6ECB-4014-82FD-F01825D64057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

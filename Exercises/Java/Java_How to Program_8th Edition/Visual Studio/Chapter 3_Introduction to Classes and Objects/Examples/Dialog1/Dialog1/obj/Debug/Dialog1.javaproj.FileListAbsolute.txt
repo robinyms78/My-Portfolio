@@ -1,0 +1,3 @@
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 3_Introduction to Classes and Objects\Dialog1\Dialog1\bin\Debug\Dialog1.jar
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 3_Introduction to Classes and Objects\Dialog1\Dialog1\obj\Debug\pkg\Dialog1.class
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 3_Introduction to Classes and Objects\Dialog1\Dialog1\obj\Debug\Dialog1.jar

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{BE0A4C86-FC82-4F70-8ED6-D24C8B13E7BF}") = "ValidateInput", "ValidateInput\ValidateInput.javaproj", "{A368F69E-DBDE-4FAD-B412-6C9CA0DB03AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A368F69E-DBDE-4FAD-B412-6C9CA0DB03AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A368F69E-DBDE-4FAD-B412-6C9CA0DB03AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A368F69E-DBDE-4FAD-B412-6C9CA0DB03AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A368F69E-DBDE-4FAD-B412-6C9CA0DB03AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

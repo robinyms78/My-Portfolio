@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{BE0A4C86-FC82-4F70-8ED6-D24C8B13E7BF}") = "Welcome2", "Welcome2\Welcome2.javaproj", "{2AF6F54B-A581-4411-A2E5-7CE28D4B1845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF6F54B-A581-4411-A2E5-7CE28D4B1845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF6F54B-A581-4411-A2E5-7CE28D4B1845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF6F54B-A581-4411-A2E5-7CE28D4B1845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF6F54B-A581-4411-A2E5-7CE28D4B1845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+C:\Users\81809\OneDrive\ドキュメント\Programming\Java How to Program\Chapter 5_Control Statements Part2\Exercises\Diamond2\Diamond2\bin\Debug\Diamond2.jar
+C:\Users\81809\OneDrive\ドキュメント\Programming\Java How to Program\Chapter 5_Control Statements Part2\Exercises\Diamond2\Diamond2\obj\Debug\pkg\Diamond2.class
+C:\Users\81809\OneDrive\ドキュメント\Programming\Java How to Program\Chapter 5_Control Statements Part2\Exercises\Diamond2\Diamond2\obj\Debug\Diamond2.jar

@@ -1,0 +1,3 @@
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\RightTriangle\RightTriangle\bin\Debug\RightTriangle.jar
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\RightTriangle\RightTriangle\obj\Debug\pkg\RightTriangle.class
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\RightTriangle\RightTriangle\obj\Debug\RightTriangle.jar

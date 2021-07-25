@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemberFunction", "MemberFunction\MemberFunction.vcxproj", "{393F1FAB-7B96-4E3E-80CB-4851CDED4104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393F1FAB-7B96-4E3E-80CB-4851CDED4104}.Debug|Win32.ActiveCfg = Debug|Win32
+		{393F1FAB-7B96-4E3E-80CB-4851CDED4104}.Debug|Win32.Build.0 = Debug|Win32
+		{393F1FAB-7B96-4E3E-80CB-4851CDED4104}.Release|Win32.ActiveCfg = Release|Win32
+		{393F1FAB-7B96-4E3E-80CB-4851CDED4104}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

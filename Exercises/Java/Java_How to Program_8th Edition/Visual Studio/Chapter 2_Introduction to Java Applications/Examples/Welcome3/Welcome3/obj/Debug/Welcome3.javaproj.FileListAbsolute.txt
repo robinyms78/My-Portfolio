@@ -1,0 +1,3 @@
+c:\users\81809\onedrive\ドキュメント\visual studio 2010\Projects\Welcome3\Welcome3\bin\Debug\Welcome3.jar
+c:\users\81809\onedrive\ドキュメント\visual studio 2010\Projects\Welcome3\Welcome3\obj\Debug\pkg\Welcome3.class
+c:\users\81809\onedrive\ドキュメント\visual studio 2010\Projects\Welcome3\Welcome3\obj\Debug\Welcome3.jar

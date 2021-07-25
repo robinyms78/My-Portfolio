@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{BE0A4C86-FC82-4F70-8ED6-D24C8B13E7BF}") = "Pi", "Pi\Pi.javaproj", "{1EEF7AB5-A097-4D4E-AF7B-EA5323C19AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EEF7AB5-A097-4D4E-AF7B-EA5323C19AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEF7AB5-A097-4D4E-AF7B-EA5323C19AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEF7AB5-A097-4D4E-AF7B-EA5323C19AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEF7AB5-A097-4D4E-AF7B-EA5323C19AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

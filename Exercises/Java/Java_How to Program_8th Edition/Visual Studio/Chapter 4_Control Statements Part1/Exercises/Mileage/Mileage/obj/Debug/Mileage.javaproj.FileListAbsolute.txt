@@ -1,0 +1,3 @@
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\Mileage\Mileage\bin\Debug\Mileage.jar
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\Mileage\Mileage\obj\Debug\pkg\Mileage.class
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\Mileage\Mileage\obj\Debug\Mileage.jar

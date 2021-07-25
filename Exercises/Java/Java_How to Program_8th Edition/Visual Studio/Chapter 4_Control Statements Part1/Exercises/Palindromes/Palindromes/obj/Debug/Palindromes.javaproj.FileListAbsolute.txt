@@ -1,0 +1,3 @@
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\Palindromes\Palindromes\bin\Debug\Palindromes.jar
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\Palindromes\Palindromes\obj\Debug\pkg\Palindromes.class
+C:\Users\81809\OneDrive\ドキュメント\Visual Studio 2010\Projects\Java_How to Program\Chapter 4_Control Statements Part1\Exercises\Palindromes\Palindromes\obj\Debug\Palindromes.jar
