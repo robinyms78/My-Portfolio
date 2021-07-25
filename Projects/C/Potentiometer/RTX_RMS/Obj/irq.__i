@@ -1,0 +1,1 @@
+ --thumb -c --cpu ARM966E-S -D__RTX -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\91x -o ".\Obj\irq.o" --depend ".\Obj\irq.d" "IRQ.c"

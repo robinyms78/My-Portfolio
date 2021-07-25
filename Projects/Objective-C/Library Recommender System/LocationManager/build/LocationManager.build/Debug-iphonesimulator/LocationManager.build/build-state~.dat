@@ -1,0 +1,255 @@
+TLocationManager
+v7
+r0
+t328083765.451036
+cCheck dependencies
+cProcessInfoPlistFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/Info.plist" LocationManager-Info.plist
+cCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/MainWindow.xib"
+cCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.xib"
+cProcessPCH /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationManager_Prefix-aphfqlhsyksyxobxfxfarxvbdldg/LocationManager_Prefix.pch.gch LocationManager_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/main.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationManagerAppDelegate.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationManagerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationViewController.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationManager" normal i386
+cGenerateDSYMFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app.dSYM" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationManager"
+cTouch "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationManagerAppDelegate.h
+c000000004DDDF1B30000000000000197
+t1306390963
+s407
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationManagerAppDelegate.m
+c000000004DDDE9F700000000000009DD
+t1306388983
+s2525
+i"LocationManagerAppDelegate.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.h
+c000000004DDDF1B300000000000000E9
+t1306390963
+s233
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.m
+c000000004DDDF11500000000000005AF
+t1306390805
+s1455
+i"LocationViewController.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.xib
+c000000004DDDF115000000000000187D
+t1306390805
+s6269
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/LocationManager_Prefix.pch
+c000000004DDDE9F700000000000000C7
+t1306388983
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/MainWindow.xib
+c000000004DDDE9F70000000000002130
+t1306388983
+s8496
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app
+t1306390965
+s238
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app.dSYM
+t1306390965
+s102
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/Info.plist
+t1306390963
+s629
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationManager
+t1306390965
+s17468
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationViewController.nib
+t1306390964
+s1231
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/MainWindow.nib
+t1306390964
+s1539
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/PkgInfo
+t1306390963
+s8
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationManager.LinkFileList
+c000000004DDDF1B30000000000000283
+t1306390963
+s643
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationManagerAppDelegate.o
+t1306390965
+s50448
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationViewController.o
+t1306390965
+s38292
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/main.o
+t1306390965
+s6436
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/main.m
+c000000004DDDE9F70000000000000160
+t1306388983
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationManager_Prefix-aphfqlhsyksyxobxfxfarxvbdldg/LocationManager_Prefix.pch.gch
+t1306390964
+s15814064
+
+NLocationManager-Info.plist
+c000000004DDDE9F7000000000000038D
+t1306388983
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328083763#328083763#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationManagerAppDelegate.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationManagerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328083764.967888
+e328083765.084398
+r1
+xCompileC
+xbuild/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationManagerAppDelegate.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationManagerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@146"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationManagerAppDelegate.m328083764#328083765#0(0"0(0#0#138"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationManagerAppDelegate.m8613207488#2841"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationManager_Prefix-aphfqlhsyksyxobxfxfarxvbdldg/LocationManager_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationManagerAppDelegate.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationManagerAppDelegate.o"0#
+
+CCompileC build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationViewController.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328083764.969799
+e328083765.078730
+r1
+xCompileC
+xbuild/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationViewController.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.m328083764#328083765#0(0"0(0#0#134"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.m8613618976#2833"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationManager_Prefix-aphfqlhsyksyxobxfxfarxvbdldg/LocationManager_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationViewController.o"0#
+
+CCompileC build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/main.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328083764.966105
+e328083765.068404
+r1
+xCompileC
+xbuild/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/main.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/main.m328083764#328083765#0(0"0(0#0#108"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/main.m8612457280#2789"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationManager_Prefix-aphfqlhsyksyxobxfxfarxvbdldg/LocationManager_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/main.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.xib"
+s328083763.696744
+e328083764.077011
+r1
+xCompileXIB
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.xib
+lSLF07#2@45"CompileXIB Classes/LocationViewController.xib328083763#328083764#0(0"0(0#0#136"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.xib8613223520#805"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationViewController.nib" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/Classes/LocationViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/MainWindow.xib"
+s328083763.695302
+e328083764.076810
+r1
+xCompileXIB
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328083763#328083764#0(0"0(0#0#116"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/MainWindow.xib8613655264#773"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/MainWindow.nib" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app.dSYM" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationManager"
+s328083765.385154
+e328083765.426465
+r1
+xGenerateDSYMFile
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app.dSYM
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationManager
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/LocationManager.app.dSYM build/Debug-iphonesimulator/LocationManager.app/LocationManager328083765#328083765#0(0"0(0#0#165"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationManager8612400224#602"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationManager" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app.dSYM"0#
+
+CLd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationManager" normal i386
+s328083765.084475
+e328083765.384965
+r1
+xLd
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationManager
+xnormal
+xi386
+lSLF07#2@170"Link /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationManager328083765#328083765#0(0"0(0#0#0"8613049728#1265"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator" -filelist "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/Objects-normal/i386/LocationManager.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/LocationManager"0#
+
+CProcessInfoPlistFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/Info.plist" LocationManager-Info.plist
+s328083763.659834
+e328083763.695197
+r1
+xProcessInfoPlistFile
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/Info.plist
+xLocationManager-Info.plist
+lSLF07#2@34"Process LocationManager-Info.plist328083763#328083763#0(0"0(0#0#128"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/LocationManager-Info.plist8245937404518951936#698"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LocationManager-Info.plist -genpkginfo "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app/Info.plist"0#
+
+CProcessPCH /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationManager_Prefix-aphfqlhsyksyxobxfxfarxvbdldg/LocationManager_Prefix.pch.gch LocationManager_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328083764.077206
+e328083764.965889
+r1
+xProcessPCH
+x/var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationManager_Prefix-aphfqlhsyksyxobxfxfarxvbdldg/LocationManager_Prefix.pch.gch
+xLocationManager_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile LocationManager_Prefix.pch328083764#328083764#0(0"0(0#0#128"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/LocationManager_Prefix.pch8613517376#2608"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/LocationManager-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/LocationManager.build/Debug-iphonesimulator/LocationManager.build/DerivedSources" -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/LocationManager_Prefix.pch" -o /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocationManager_Prefix-aphfqlhsyksyxobxfxfarxvbdldg/LocationManager_Prefix.pch.gch0#
+
+CTouch "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app"
+s328083765.426552
+e328083765.450975
+r1
+xTouch
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app
+lSLF07#2@155"Touch /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app328083765#328083765#0(0"0(0#0#0"8612679648#416"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocationManager/build/Debug-iphonesimulator/LocationManager.app"0#
+

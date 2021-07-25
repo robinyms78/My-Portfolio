@@ -1,0 +1,13 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Robin\Desktop\RTX_RMS\Blinky.uvproj
+Project File Date:  03/06/2013
+
+<h2>Output:</h2>
+Build target 'MCBSTR9'
+linking...
+Program Size: Code=6144 RO-data=128 RW-data=96 ZI-data=12376  
+".\Obj\Blinky.axf" - 0 Error(s), 0 Warning(s).
