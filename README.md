@@ -1,8 +1,10 @@
 # My-Portfolio
 
-My portfolio contains the main projects which I have developed.
+My portfolio contains the main projects and exercises which I have developed.
 
-It is divided into 4 groups, namely Python code, Objective-C code, Java code and C code.
+The exercises are divided into 3 main groups, namely Python code, Java code and C++ code.
+
+The projects are divided into 4 main groups, namely Python code, Objective-C code, Java code and C code.
 
 The projects within each group are as follows:
 
