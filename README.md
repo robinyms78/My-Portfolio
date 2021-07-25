@@ -1,6 +1,6 @@
 # My-Portfolio
 
-My portfolio contains the main systems which I have developed.
+My portfolio contains the main projects which I have developed.
 
 It is divided into 4 groups, namely Python code, Objective-C code, Java code and C code.
 
