@@ -12,11 +12,9 @@ The projects within each group are as follows:
    
    a. Head motion synchronization system: An API to synchronize the head motion in the communicative process between human and robot using reactive and interactive model.
    
-   b. Machine learning system: An API to classify the data set using supervised and unsupervised learning and compare the performance of each model.
+   b. Remote education system: A desktop application to control Pepper's movement in the classroom using motion planning and control, head motion synchronization between human and Nao robot using the camera and OpenCV, and a robot tutoring system using Webot and Microsoft Speech Engine. 
    
-   c. Remote education system: A desktop application to control Pepper's movement in the classroom using motion planning and control, head motion synchronization between human and Nao robot using the camera and OpenCV, and a robot tutoring system using Webot and Microsoft Speech Engine. 
-   
-   d. Topic modelling system: An API to extract topic models from a given data set using Latent Diriclet Allocation with Gibb's sampling.  
+   c. Topic modelling system: An API to extract topic models from a given data set using Latent Diriclet Allocation with Gibb's sampling.  
 
 2. Objective-C Code:
 
