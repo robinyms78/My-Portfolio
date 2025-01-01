@@ -1,0 +1,37 @@
+/* CSS file to style each respective components */
+
+/* css style for main body */
+.body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: aqua;
+}
+
+/* css style for each section */
+.bodyText {
+  text-align: center;
+  border: 1px solid #aaa;
+  border-radius: 10px;
+  background: #ffe46d;
+  padding: 1px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 50px;
+  font-size: 20px;
+}
+
+/* css style for listed items in hobbies section */
+.listContainer {
+  display: flex;
+  text-align: left; /* Ensures text inslide the list is left-aligned */
+  flex-direction: column;
+  padding: 0;
+  align-items: center; /* Aligns content vertically */
+}
+
+/* css style for listed items in hobbies section */
+.verticalList {
+  list-style-type: disc; /* Bullet points */
+  margin: 0;
+}
