@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ribml name="TOKI PONA LANGUAGE LESSONS">
+	<plan name="welcome" activity="1">
+		<precondition>
+		<condition name="motivation" operator="=" value="high" />
+		</precondition>
+		<postcondition>
+			<condition  name="currentknowledge" value="welcome" />
+		</postcondition>
+		<action name="welcome" />
+	</plan>
+	<plan name="introduction" activity="1">
+		<precondition>
+			<section logic="and">
+				<condition name="motivation" operator="=" value="high" />
+				<section logic="or">
+					<condition name="currentknowledge" operator="=" value="welcome" />
+					<condition name="currentknowledge" operator="=" value="" />
+				</section>
+				<section logic="not">
+					<condition name="emotion" operator="=" value="puzzle" />
+				</section>
+			</section>
+		</precondition>
+		<postcondition>
+			<condition name="currentknowledge" value="introduction" />
+		</postcondition>
+		<action name="introduction" />
+	</plan>
+	<plan name="letters" activity="1">
+		<precondition>
+			<section logic="and">
+				<condition name="motivation" operator="=" value="high" />
+				<condition name="currentknowledge" operator="=" value="introduction" />
+			</section>
+		</precondition>
+		<postcondition>
+			<condition  name="currentknowledge" value="letters" />
+		</postcondition>
+		<action name="letters" />
+	</plan>
+	<plan name="basicsentence" activity="1">
+		<precondition>
+			<section logic="and">
+				<condition name="motivation" operator="=" value="high" />
+				<condition name="currentknowledge" operator="=" value="letters" />
+			</section>
+		</precondition>
+		<postcondition>
+			<condition  name="currentknowledge" value="basicsentence" />
+		</postcondition>
+		<action name="basicsentence" />
+	</plan>
+</ribml>

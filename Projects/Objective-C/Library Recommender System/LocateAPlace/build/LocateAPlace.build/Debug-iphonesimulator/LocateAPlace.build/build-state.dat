@@ -1,0 +1,319 @@
+TLocateAPlace
+v7
+r0
+t328961354.328005
+cCheck dependencies
+cProcessInfoPlistFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/Info.plist" LocateAPlace-Info.plist
+cCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/MainWindow.xib"
+cCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.xib"
+cProcessPCH /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocateAPlace_Prefix-asnxfjyuuaimlschndecgzhvbfwe/LocateAPlace_Prefix.pch.gch LocateAPlace_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/main.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocateAPlaceAppDelegate.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocateAPlaceAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/MapAnnotation.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/../MapAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocalMapViewController.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace" normal i386
+cGenerateDSYMFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app.dSYM" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace"
+cTouch "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D54DEBC00000000000778F0
+t1297407676
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D54DEB600000000000001D0
+t1297407670
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004D5C9BDB00000000000002FE
+t1297914843
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D5C9BEB000000000018CAB0
+t1297914859
+s1624752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/../MapAnnotation.m
+c000000004DDE05F400000000000001BA
+t1306396148
+s442
+i"MapAnnotation.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.h
+c000000004DDE07C70000000000000162
+t1306396615
+s354
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i"MapAnnotation.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.m
+c000000004DDE13F2000000000000093B
+t1306399730
+s2363
+i"LocalMapViewController.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.xib
+c000000004DDE9B580000000000005A41
+t1306434392
+s23105
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocateAPlaceAppDelegate.h
+c000000004DDE0F0D000000000000018E
+t1306398477
+s398
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocateAPlaceAppDelegate.m
+c000000004DDE0FBE0000000000000AAC
+t1306398654
+s2732
+i"LocateAPlaceAppDelegate.h"
+i"LocalMapViewController.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/LocateAPlace_Prefix.pch
+c000000004DDE02A900000000000000C1
+t1306395305
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/MainWindow.xib
+c000000004DDE02A90000000000002121
+t1306395305
+s8481
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/MapAnnotation.h
+c000000004DDE047A000000000000021A
+t1306395770
+s538
+i<Foundation/Foundation.h>
+i<Corelocation/CoreLocation.h>
+i<MapKit/MapKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/MapAnnotation.m
+c000000004DDE033000000000000000C1
+t1306395440
+s193
+i"MapAnnotation.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app
+t1306512982
+s238
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app.dSYM
+t1306399730
+s102
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/Info.plist
+t1306512982
+s611
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocalMapViewController.nib
+t1306434394
+s3428
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace
+t1306399730
+s23880
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/MainWindow.nib
+t1306395771
+s1536
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/PkgInfo
+t1306512982
+s8
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocalMapViewController.o
+t1306399730
+s45900
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocateAPlace.LinkFileList
+c000000004DDE07C7000000000000032E
+t1306396615
+s814
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocateAPlaceAppDelegate.o
+t1306398655
+s52164
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/MapAnnotation.o
+t1306396148
+s12692
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/main.o
+t1306395772
+s6432
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/main.m
+c000000004DDE02A9000000000000015D
+t1306395305
+s349
+i<UIKit/UIKit.h>
+
+N/var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocateAPlace_Prefix-asnxfjyuuaimlschndecgzhvbfwe/LocateAPlace_Prefix.pch.gch
+t1306395771
+s15814064
+
+NLocateAPlace-Info.plist
+c000000004DDE02A9000000000000038D
+t1306395305
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328961354#328961354#0(0"0(0#1#0"8601602848#0"0#
+
+CCompileC build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocalMapViewController.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328092530.802912
+e328092530.923925
+r1
+xCompileC
+xbuild/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocalMapViewController.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@139"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.m328092530#328092530#0(0"0(0#0#131"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.m8618536992#2740"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocateAPlace_Prefix-asnxfjyuuaimlschndecgzhvbfwe/LocateAPlace_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocalMapViewController.o"0#
+
+CCompileC build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocateAPlaceAppDelegate.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocateAPlaceAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328091454.942244
+e328091455.066805
+r1
+xCompileC
+xbuild/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocateAPlaceAppDelegate.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocateAPlaceAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@140"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocateAPlaceAppDelegate.m328091454#328091455#0(0"0(0#0#132"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocateAPlaceAppDelegate.m8617354592#2742"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocateAPlace_Prefix-asnxfjyuuaimlschndecgzhvbfwe/LocateAPlace_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocateAPlaceAppDelegate.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocateAPlaceAppDelegate.o"0#
+
+CCompileC build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/MapAnnotation.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/../MapAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328088948.103821
+e328088948.207832
+r1
+xCompileC
+xbuild/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/MapAnnotation.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/../MapAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@133"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/../MapAnnotation.m328088948#328088948#0(0"0(0#0#125"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/../MapAnnotation.m8618694624#2725"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocateAPlace_Prefix-asnxfjyuuaimlschndecgzhvbfwe/LocateAPlace_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/../MapAnnotation.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/MapAnnotation.o"0#
+
+CCompileC build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/MapAnnotation.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/MapAnnotation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/main.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328088571.976515
+e328088572.018459
+r1
+xCompileC
+xbuild/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/main.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/main.m328088571#328088572#0(0"0(0#0#105"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/main.m8617044864#2696"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocateAPlace_Prefix-asnxfjyuuaimlschndecgzhvbfwe/LocateAPlace_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/main.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.xib"
+s328127194.460561
+e328127194.819218
+r1
+xCompileXIB
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.xib
+lSLF07#2@45"CompileXIB Classes/LocalMapViewController.xib328127194#328127194#0(0"0(0#0#133"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.xib8609844288#793"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocalMapViewController.nib" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/Classes/LocalMapViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/MainWindow.xib"
+s328088570.850593
+e328088571.173627
+r1
+xCompileXIB
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328088570#328088571#0(0"0(0#0#113"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/MainWindow.xib8619502176#761"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/MainWindow.nib" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app.dSYM" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace"
+s328092530.942435
+e328092530.953913
+r1
+xGenerateDSYMFile
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app.dSYM
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/LocateAPlace.app.dSYM build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace328092530#328092530#0(0"0(0#0#156"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace8618999200#584"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app.dSYM"0#
+
+CLd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace" normal i386
+s328092530.924008
+e328092530.942349
+r1
+xLd
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace
+xnormal
+xi386
+lSLF07#2@161"Link /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace328092530#328092530#0(0"0(0#0#0"8620460800#1277"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator" -filelist "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/Objects-normal/i386/LocateAPlace.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework CoreLocation -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/LocateAPlace"0#
+
+CProcessInfoPlistFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/Info.plist" LocateAPlace-Info.plist
+s328205782.936017
+e328205782.942542
+r1
+xProcessInfoPlistFile
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/Info.plist
+xLocateAPlace-Info.plist
+lSLF07#2@31"Process LocateAPlace-Info.plist328205782#328205782#0(0"0(0#0#122"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/LocateAPlace-Info.plist8616064480#680"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LocateAPlace-Info.plist -genpkginfo "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app/Info.plist"0#
+
+CProcessPCH /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocateAPlace_Prefix-asnxfjyuuaimlschndecgzhvbfwe/LocateAPlace_Prefix.pch.gch LocateAPlace_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328088571.173729
+e328088571.976391
+r1
+xProcessPCH
+x/var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocateAPlace_Prefix-asnxfjyuuaimlschndecgzhvbfwe/LocateAPlace_Prefix.pch.gch
+xLocateAPlace_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile LocateAPlace_Prefix.pch328088571#328088571#0(0"0(0#0#122"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/LocateAPlace_Prefix.pch8618933792#2521"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/LocateAPlace-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/LocateAPlace.build/Debug-iphonesimulator/LocateAPlace.build/DerivedSources" -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/LocateAPlace_Prefix.pch" -o /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LocateAPlace_Prefix-asnxfjyuuaimlschndecgzhvbfwe/LocateAPlace_Prefix.pch.gch0#
+
+CTouch "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app"
+s328205782.943731
+e328205782.965477
+r1
+xTouch
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app
+lSLF07#2@149"Touch /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app328205782#328205782#0(0"0(0#0#0"8613264384#407"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/LocateAPlace/build/Debug-iphonesimulator/LocateAPlace.app"0#
+

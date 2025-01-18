@@ -1,0 +1,461 @@
+TGooglePlaceSearch
+v7
+r0
+t328965749.133445
+cCheck dependencies
+cProcessInfoPlistFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/Info.plist" GooglePlaceSearch-Info.plist
+cCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/MainWindow.xib"
+cCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/GooglePlaceSearchViewController.xib"
+cProcessPCH /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch.gch GooglePlaceSearch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/main.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearchAppDelegate.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearchViewController.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/NSString+SBJSON.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJSON.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonBase.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonParser.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonWriter.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/JSON.h
+c000000004DE9C3E800000000000008F9
+t1307165672
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSObject+SBJSON.m
+c000000004DE9C3E800000000000008B9
+t1307165672
+s2233
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSString+SBJSON.m
+c000000004DE9C3E8000000000000089F
+t1307165672
+s2207
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJSON.m
+c000000004DE9C3E80000000000001ABC
+t1307165672
+s6844
+i"SBJSON.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonBase.m
+c000000004DE9C3E80000000000000AC1
+t1307165672
+s2753
+i"SBJsonBase.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonParser.m
+c000000004DE9C3E800000000000036CF
+t1307165672
+s14031
+i"SBJsonParser.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonWriter.m
+c000000004DE9C3E80000000000001E83
+t1307165672
+s7811
+i"SBJsonWriter.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchAppDelegate.h
+c000000004DEA81F70000000000000209
+t1307214327
+s521
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchAppDelegate.m
+c000000004DEA81F70000000000000ACA
+t1307214327
+s2762
+i"GooglePlaceSearchAppDelegate.h"
+i"GooglePlaceSearchViewController.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.h
+c000000004DEB5F370000000000000298
+t1307270967
+s664
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m
+c000000004DEB66F50000000000000902
+t1307272949
+s2306
+i"GooglePlaceSearchViewController.h"
+i"JSON.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/GooglePlaceSearchViewController.xib
+c000000004DEA81F70000000000001A6D
+t1307214327
+s6765
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/GooglePlaceSearch_Prefix.pch
+c000000004DEA81F700000000000000CB
+t1307214327
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/MainWindow.xib
+c000000004DEA84F50000000000005AE9
+t1307215093
+s23273
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app
+t1307270754
+s238
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app.dSYM
+t1307270754
+s102
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearch
+t1307270754
+s62088
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearchViewController.nib
+t1307214352
+s1269
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/Info.plist
+t1307214352
+s637
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/MainWindow.nib
+t1307215147
+s1701
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/PkgInfo
+t1307214352
+s8
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearch.LinkFileList
+c000000004DEA831F00000000000007A8
+t1307214623
+s1960
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearchAppDelegate.o
+t1307270968
+s52808
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearchViewController.o
+t2
+s0
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/NSObject+SBJSON.o
+t1307214623
+s8732
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/NSString+SBJSON.o
+t1307214623
+s8652
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJSON.o
+t1307214623
+s20292
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonBase.o
+t1307214623
+s13424
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonParser.o
+t1307214623
+s36196
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonWriter.o
+t1307214623
+s25072
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/main.o
+t1307214353
+s6440
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/main.m
+c000000004DEA81F70000000000000161
+t1307214327
+s353
+i<UIKit/UIKit.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSObject+SBJSON.h
+c000000004DE9C3E80000000000000A01
+t1307165672
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSString+SBJSON.h
+c000000004DE9C3E80000000000000916
+t1307165672
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJSON.h
+c000000004DE9C3E80000000000000AED
+t1307165672
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonBase.h
+c000000004DE9C3E80000000000000B82
+t1307165672
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonParser.h
+c000000004DE9C3E80000000000000C0B
+t1307165672
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonWriter.h
+c000000004DE9C3E80000000000001140
+t1307165672
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch.gch
+t1307214353
+s15814064
+
+NGooglePlaceSearch-Info.plist
+c000000004DEA81F7000000000000038D
+t1307214327
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328965749#328965749#0(0"0(0#1#0"8608584896#0"0#
+
+CCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearchAppDelegate.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328963768.044792
+e328963768.105456
+r1
+xCompileC
+xbuild/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearchAppDelegate.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@150"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchAppDelegate.m328963768#328963768#0(0"0(0#0#142"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchAppDelegate.m8617046336#2907"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchAppDelegate.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearchAppDelegate.o"0#
+
+CCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearchViewController.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328965749.092870
+e328965749.133379
+r0
+xCompileC
+xbuild/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearchViewController.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m: In function '-[GooglePlaceSearchViewController lookup]':
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:18: warning: local declaration of 'latitude' hides instance variable
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:18: error: request for member 'text' in something not a structure or union
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:20: warning: local declaration of 'longitude' hides instance variable
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:20: error: request for member 'text' in something not a structure or union
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:22: warning: local declaration of 'latitude' hides instance variable
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:22: error: request for member 'text' in something not a structure or union
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:22: warning: local declaration of 'longitude' hides instance variable
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:22: error: request for member 'text' in something not a structure or union
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m: In function '-[GooglePlaceSearchViewController connectionDidFinishLoading:]':
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:58: error: 'nearestlibrary' undeclared (first use in this function)
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:58: error: (Each undeclared identifier is reported only once
+o/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:58: error: for each function it appears in.)
+lSLF07#2@153"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m328965749#328965749#0(2787"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m: In function '-[GooglePlaceSearchViewController lookup]':/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:18: warning: local declaration of 'latitude' hides instance variable/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:18: error: request for member 'text' in something not a structure or union/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:20: warning: local declaration of 'longitude' hides instance variable/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:20: error: request for member 'text' in something not a structure or union/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:22: warning: local declaration of 'latitude' hides instance variable/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:22: error: request for member 'text' in something not a structure or union/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:22: warning: local declaration of 'longitude' hides instance variable/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:22: error: request for member 'text' in something not a structure or union/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m: In function '-[GooglePlaceSearchViewController connectionDidFinishLoading:]':/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:58: error: 'nearestlibrary' undeclared (first use in this function)/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:58: error: (Each undeclared identifier is reported only once/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m:58: error: for each function it appears in.)9(22@55"Local declaration of 'latitude' hides instance variable328965749#204#215#0(6@145"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m328965749#18#0#18#0#0"0(4@63"Request for member 'text' in something not a structure or union328965749#419#221#0(6@145"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m328965749#18#0#18#0#0"0(22@56"Local declaration of 'longitude' hides instance variable328965749#640#216#0(6@145"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m328965749#20#0#20#0#0"0(4@63"Request for member 'text' in something not a structure or union328965749#856#221#0(6@145"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m328965749#20#0#20#0#0"0(22@55"Local declaration of 'latitude' hides instance variable328965749#1077#215#0(6@145"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m328965749#22#0#22#0#0"0(4@63"Request for member 'text' in something not a structure or union328965749#1292#221#0(6@145"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m328965749#22#0#22#0#0"0(22@56"Local declaration of 'longitude' hides instance variable328965749#1513#216#0(6@145"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m328965749#22#0#22#0#0"0(4@63"Request for member 'text' in something not a structure or union328965749#1729#221#0(6@145"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m328965749#22#0#22#0#0"0(4@56"'nearestlibrary' undeclared (first use in this function)328965749#2175#214#0(6@145"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m328965749#58#0#58#0#43"'*' undeclared (first use in this function)0(0#0#145"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m8604605568#2913"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/Classes/GooglePlaceSearchViewController.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearchViewController.o"1#
+
+CCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328907423.164834
+e328907423.228733
+r1
+xCompileC
+xbuild/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@176"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSObject+SBJSON.m328907423#328907423#0(0"0(0#0#168"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSObject+SBJSON.m8608553984#2920"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSObject+SBJSON.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/NSObject+SBJSON.o"0#
+
+CCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/NSString+SBJSON.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328907423.165994
+e328907423.236285
+r1
+xCompileC
+xbuild/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@176"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSString+SBJSON.m328907423#328907423#0(0"0(0#0#168"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSString+SBJSON.m8602201504#2920"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/NSString+SBJSON.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/NSString+SBJSON.o"0#
+
+CCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJSON.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328907423.167113
+e328907423.265621
+r1
+xCompileC
+xbuild/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJSON.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@167"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJSON.m328907423#328907423#0(0"0(0#0#159"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJSON.m8617858976#2902"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJSON.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJSON.o"0#
+
+CCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonBase.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328907423.224885
+e328907423.284640
+r1
+xCompileC
+xbuild/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonBase.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@171"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonBase.m328907423#328907423#0(0"0(0#0#163"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonBase.m8620832800#2910"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonBase.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonBase.o"0#
+
+CCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonParser.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328907423.228861
+e328907423.336859
+r1
+xCompileC
+xbuild/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonParser.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@173"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonParser.m328907423#328907423#0(0"0(0#0#165"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonParser.m8619917696#2914"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonParser.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonParser.o"0#
+
+CCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonWriter.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328907423.236452
+e328907423.324037
+r1
+xCompileC
+xbuild/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@173"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonWriter.m328907423#328907423#0(0"0(0#0#165"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonWriter.m8618787840#2914"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/../dcgrigsby-luckynumbers-93bcbc9/Classes/JSON/SBJsonWriter.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/SBJsonWriter.o"0#
+
+CCompileC build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/main.o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328907153.104947
+e328907153.148544
+r1
+xCompileC
+xbuild/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/main.o
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@118"Compile /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/main.m328907153#328907153#0(0"0(0#0#110"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/main.m8624754144#2851"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources" -include /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/main.m" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/GooglePlaceSearchViewController.xib"
+s328907152.208471
+e328907152.534418
+r1
+xCompileXIB
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/GooglePlaceSearchViewController.xib
+lSLF07#2@46"CompileXIB GooglePlaceSearchViewController.xib328907152#328907152#0(0"0(0#0#139"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/GooglePlaceSearchViewController.xib8618122784#823"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearchViewController.nib" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/GooglePlaceSearchViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/MainWindow.xib"
+s328907947.601490
+e328907947.925723
+r1
+xCompileXIB
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328907947#328907947#0(0"0(0#0#118"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/MainWindow.xib8617030208#781"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/MainWindow.nib" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app.dSYM" "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearch"
+s328963554.905778
+e328963554.951497
+r1
+xGenerateDSYMFile
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app.dSYM
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearch
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/GooglePlaceSearch.app.dSYM build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearch328963554#328963554#0(0"0(0#0#171"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearch8617650144#614"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearch" -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app.dSYM"0#
+
+CLd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearch" normal i386
+s328963554.609093
+e328963554.905688
+r1
+xLd
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearch
+xnormal
+xi386
+lSLF07#2@176"Link /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearch328963554#328963554#0(0"0(0#0#0"8245937404518951936#1285"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" -filelist "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/Objects-normal/i386/GooglePlaceSearch.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/GooglePlaceSearch"0#
+
+CProcessInfoPlistFile "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/Info.plist" GooglePlaceSearch-Info.plist
+s328907152.193799
+e328907152.202837
+r1
+xProcessInfoPlistFile
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/Info.plist
+xGooglePlaceSearch-Info.plist
+lSLF07#2@36"Process GooglePlaceSearch-Info.plist328907152#328907152#0(0"0(0#0#132"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/GooglePlaceSearch-Info.plist8386103232743175168#710"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GooglePlaceSearch-Info.plist -genpkginfo "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app/Info.plist"0#
+
+CProcessPCH /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch.gch GooglePlaceSearch_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328907152.543217
+e328907153.104754
+r1
+xProcessPCH
+x/var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch.gch
+xGooglePlaceSearch_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile GooglePlaceSearch_Prefix.pch328907152#328907153#0(0"0(0#0#132"/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/GooglePlaceSearch_Prefix.pch8623574464#2666"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-generated-files.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-own-target-headers.hmap" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-all-target-headers.hmap" -iquote "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/GooglePlaceSearch-project-headers.hmap" "-F/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/include" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources/i386" "-I/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/GooglePlaceSearch.build/Debug-iphonesimulator/GooglePlaceSearch.build/DerivedSources" -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/GooglePlaceSearch_Prefix.pch" -o /var/folders/iB/iB9VySMWGVmKkkG33Lw4QE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GooglePlaceSearch_Prefix-bpchutflnwxujgaekzcprzxjwyvu/GooglePlaceSearch_Prefix.pch.gch0#
+
+CTouch "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app"
+s328963554.951568
+e328963554.972842
+r1
+xTouch
+x/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app
+lSLF07#2@159"Touch /Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app328963554#328963554#0(0"0(0#0#0"8617333088#422"    cd "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/robinyap/My Career/Master of Technology/Unit 2_Mobile Wireless Applications/CA/GooglePlaceSearch/build/Debug-iphonesimulator/GooglePlaceSearch.app"0#
+

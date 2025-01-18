@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Robin\Desktop\RTX_EDF\Blinky.uvproj
+Project File Date:  03/17/2013
+
+<h2>Output:</h2>
+Build target 'MCBSTR9'
+compiling Blinky.c...
+Blinky.c(216): warning:  #188-D: enumerated type mixed with another type
+Blinky.c(216): warning:  #68-D: integer conversion resulted in a change of sign
+Blinky.c(236): warning:  #188-D: enumerated type mixed with another type
+Blinky.c(236): warning:  #68-D: integer conversion resulted in a change of sign
+linking...
+Program Size: Code=4580 RO-data=128 RW-data=72 ZI-data=12272  
+".\Obj\Blinky.axf" - 0 Error(s), 4 Warning(s).

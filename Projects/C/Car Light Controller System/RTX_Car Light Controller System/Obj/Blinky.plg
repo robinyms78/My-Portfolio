@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Robin\Desktop\RTX_Car Light Controller System\Blinky.uvproj
+Project File Date:  03/17/2013
+
+<h2>Output:</h2>
+Build target 'MCBSTR9'
+compiling Blinky.c...
+Blinky.c(231): warning:  #188-D: enumerated type mixed with another type
+Blinky.c(231): warning:  #68-D: integer conversion resulted in a change of sign
+linking...
+Program Size: Code=4604 RO-data=128 RW-data=64 ZI-data=12272  
+".\Obj\Blinky.axf" - 0 Error(s), 2 Warning(s).
+Load "C:\\Users\\Robin\\Desktop\\RTX_Car Light Controller System\\Obj\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...

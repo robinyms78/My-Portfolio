@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SRI name="SRI Rules">
+	<rule name="motivation" priority="1">
+		<conditions>
+			<section logic="and">
+				<condition name="face" operator="=" value="happy" />
+				<section logic="or">
+					<condition name="level" operator="=" value="welcome" />
+					<condition name="level" operator="=" value="" />
+				</section>
+				<section logic="not">
+					<condition name="emotion" operator="=" value="puzzle" />
+				</section>
+			</section>
+		</conditions>
+		<actions>
+			<action name="motivation" value="high" />
+		</actions>
+	</rule>
+</SRI>

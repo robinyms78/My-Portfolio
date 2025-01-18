@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{5BA687FD-91BD-45A4-AF04-4A1D0795A4D4}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>openCV_tutorial1</RootNamespace>
+    <ProjectName>SRI_opencv</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\opencv\build\include\opencv;C:\opencv\build\include\opencv2;C:\opencv\build\include;C:\FYP\SRI\include\SRIEngine;C:\FYP\SRI\include\Logger;C:\FYP\SRI\include\SRIUtil;C:\FYP\SRI\externals\rapidxml-1.13;C:\Program Files (x86)\OpenAL 1.1 SDK\include;C:\Program Files %28x86%29\OpenAL 1.1 SDK\samples\framework\Win32;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\opencv\build\x86\vc10\lib;C:\FYP\SRI\lib;C:\Program Files %28x86%29\OpenAL 1.1 SDK\libs\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>Logger.lib;SRIUtil.lib;SRIEngine.lib;opencv_core242d.lib;opencv_imgproc242d.lib;opencv_highgui242d.lib;opencv_ml242d.lib;opencv_video242d.lib;opencv_features2d242d.lib;opencv_calib3d242d.lib;opencv_objdetect242d.lib;opencv_contrib242d.lib;opencv_legacy242d.lib;opencv_flann242d.lib;OpenAL32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Program Files (x86)\OpenAL 1.1 SDK\samples\framework\Win32\aldlist.cpp" />
+    <ClCompile Include="C:\Program Files (x86)\OpenAL 1.1 SDK\samples\framework\Win32\CWaves.cpp" />
+    <ClCompile Include="C:\Program Files (x86)\OpenAL 1.1 SDK\samples\framework\Win32\Framework.cpp" />
+    <ClCompile Include="C:\Program Files (x86)\OpenAL 1.1 SDK\samples\framework\Win32\LoadOAL.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="CVImageLoader.cpp" />
+    <ClCompile Include="dllMain.cpp" />
+    <ClCompile Include="face_recognizer.cpp" />
+    <ClCompile Include="Image.cpp" />
+    <ClCompile Include="ImageShow.cpp" />
+    <ClCompile Include="KeyboardConsole.cpp" />
+    <ClCompile Include="NewFramework.cpp" />
+    <ClCompile Include="SRI_openal.cpp" />
+    <ClCompile Include="tutorial1.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Program Files (x86)\OpenAL 1.1 SDK\samples\framework\Win32\aldlist.h" />
+    <ClInclude Include="C:\Program Files (x86)\OpenAL 1.1 SDK\samples\framework\Win32\CWaves.h" />
+    <ClInclude Include="C:\Program Files (x86)\OpenAL 1.1 SDK\samples\framework\Win32\Framework.h" />
+    <ClInclude Include="C:\Program Files (x86)\OpenAL 1.1 SDK\samples\framework\Win32\LoadOAL.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="CVImageLoader.h" />
+    <ClInclude Include="face_recognizer.h" />
+    <ClInclude Include="Image.h" />
+    <ClInclude Include="ImageShow.h" />
+    <ClInclude Include="KeyboardConsole.h" />
+    <ClInclude Include="SRI\SRI.h" />
+    <ClInclude Include="SRI\SRIEngine\SRIRegistryPlugin.h" />
+    <ClInclude Include="SRI_openAL.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

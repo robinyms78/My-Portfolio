@@ -1,0 +1,30 @@
+﻿Build started 12/12/2012 6:34:33 PM.
+     1>Project "D:\Dropbox\FYP\Src\Sensory\openCV_tutorial1\openCV_tutorial1\openCV_tutorial1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\SRI_opencv.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\opencv\build\include\opencv /IC:\opencv\build\include\opencv2 /IC:\opencv\build\include /IC:\FYP\SRI\include\SRIEngine /IC:\FYP\SRI\include\Logger /IC:\FYP\SRI\include\SRIUtil /I"C:\FYP\SRI\externals\rapidxml-1.13" /I"C:\Program Files (x86)\OpenAL 1.1 SDK\include" /I"C:\Program Files (x86)\OpenAL 1.1 SDK\samples\framework\Win32" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_DEPRECATE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CVImageLoader.cpp Camera.cpp Image.cpp ImageShow.cpp KeyboardConsole.cpp SRI_openal.cpp dllMain.cpp face_recognizer.cpp tutorial1.cpp
+         tutorial1.cpp
+     1>d:\dropbox\fyp\src\sensory\opencv_tutorial1\opencv_tutorial1\tutorial1.cpp(12): fatal error C1083: Cannot open include file: 'cv.h': No such file or directory
+         face_recognizer.cpp
+     1>d:\dropbox\fyp\src\sensory\opencv_tutorial1\opencv_tutorial1\face_recognizer.h(5): fatal error C1083: Cannot open include file: 'SRIRegistryPlugin.h': No such file or directory
+         dllMain.cpp
+     1>d:\dropbox\fyp\src\sensory\opencv_tutorial1\opencv_tutorial1\dllmain.cpp(4): fatal error C1083: Cannot open include file: 'SRIRegistryPlugin.h': No such file or directory
+         SRI_openal.cpp
+     1>d:\dropbox\fyp\src\sensory\opencv_tutorial1\opencv_tutorial1\sri_openal.h(5): fatal error C1083: Cannot open include file: 'SRIRegistryPlugin.h': No such file or directory
+         KeyboardConsole.cpp
+     1>d:\dropbox\fyp\src\sensory\opencv_tutorial1\opencv_tutorial1\keyboardconsole.h(5): fatal error C1083: Cannot open include file: 'SRIRegistryPlugin.h': No such file or directory
+         ImageShow.cpp
+     1>d:\dropbox\fyp\src\sensory\opencv_tutorial1\opencv_tutorial1\imageshow.h(5): fatal error C1083: Cannot open include file: 'SRIRegistryPlugin.h': No such file or directory
+         Image.cpp
+     1>d:\dropbox\fyp\src\sensory\opencv_tutorial1\opencv_tutorial1\image.h(6): fatal error C1083: Cannot open include file: 'Serializable.h': No such file or directory
+         Camera.cpp
+     1>d:\dropbox\fyp\src\sensory\opencv_tutorial1\opencv_tutorial1\camera.h(5): fatal error C1083: Cannot open include file: 'SRIRegistryPlugin.h': No such file or directory
+         CVImageLoader.cpp
+     1>d:\dropbox\fyp\src\sensory\opencv_tutorial1\opencv_tutorial1\cvimageloader.h(5): fatal error C1083: Cannot open include file: 'SRIRegistryPlugin.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "D:\Dropbox\FYP\Src\Sensory\openCV_tutorial1\openCV_tutorial1\openCV_tutorial1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.94

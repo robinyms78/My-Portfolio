@@ -1,0 +1,75 @@
+Test case 1:
+
+Face Recognizer
+
+Step: 
+1. Retrieve training images.
+	
+	First, run facerecognizer.exe (in Dropbox\FYP_mht\FYP\code\demos\openCV_tutorial1\Debug)  
+
+Double clik to run it:
+
+and press 'space' to capture face image:
+
+ 	
+close the face image, and press space in the video window. Then turn your head slightly, and repeat the face capture for for several time so there will be enough training face image.
+
+	
+After  done the face capture for 5 or 6 times, find the images in  the “image” directory,:
+naming face0.jpg, face1.jpg etc.
+
+ Rename the image as robin0.jpg, robin1.jpg etc, move them into a new folder 	if possible. 
+
+	Add the path of the images in image.csv: open image.csv, 
+
+add the number in the first line by 1, then append the name and enumeration number. 
+For example: 
+name;3
+mht_glass;1
+mht_noglass;0
+shaowei;3
+./image/mht_glass/mht_1.jpg;1
+...
+./image/ShaoWei/face6.jpg;3
+
+let's say if Robin capture 5 image of himself, rename them to Robin0.jpg – Robin4.jpg, move them into subfolder called “Robin” under “image” folder, then “Image.csv” should be:
+name;4
+mht_glass;1
+mht_noglass;0
+shaowei;3
+Robin;4
+./image/mht_glass/mht_1.jpg;1
+...
+./image/ShaoWei/face6.jpg;3
+./image/Robin/robin0.jpg;4
+./image/Robin/robin1.jpg;4
+./image/Robin/robin2.jpg;4
+./image/Robin/robin3.jpg;4
+./image/Robin/robin4.jpg;4
+
+
+2. Test face recognition
+After adding the training images, user can test the face recognition function. The facerecognizer.exe should be able to recognise the user automatically, given that there are no significant changes in lighting condition, and preferablly in front of single color background.
+
+There are two functions that need to be verified and validated, 1. face detection 2. face recognition.
+
+1. face detection
+It can be used to detect people's face using camera, so SRI enginge would know if there is anyone in front.
+
+verification: when user move in to camera range, facing the camera, the program should be able to detect the face of the person, and draw a green rectangle area on the displaied video.
+Notes the green rectangle appear correctly around my face.
+
+Validation: Having several people appear in the video, the program should have robust performance in detecting faces.
+
+2. face recognition.
+
+It use classification method to detec the identity of people in video.
+
+verification: When user facing the camera, the program should be able to detect the face of the person and display the name of that person. Given the recognition happens in same lighting condition and background, also the face should face roughly dirstly towards the camera.
+
+The name prediction appear  to be correct. It will change depending on the face direction etc. But if most of the time the prediction is corect,then we can say it's predicting correctly.
+
+Validation: Having several people, male and female, to test the face recognition feature under normal scenario usage, i.e. Normal sitting posture, head moving freely towards different direction. The program should have correct classification under most of time (> 60%).
+ 
+
+
